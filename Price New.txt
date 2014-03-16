@@ -1,0 +1,66 @@
+.3/8/14
+
+Raspberry PI---39.99
+Key Board------20.00
+WIFI-----------10.00
+Batteries------19.90
+Voltage Reg ---09.95
+Charger--------05.95
+Screen---------20.00-----------------------64.95
+		     	 HDMI cable--------04.95
+	switch and 2.1mm barrel jack-------02.50
+_______________________________
+	       
+               125.79---------------------178.19
+
+
+3/11/14
+
+Raspberry PI---39.99
+Key Board------20.00
+WIFI-----------10.00
+Batteries------19.90
+Voltage Reg ---09.95
+Charger--------05.95
+Screen---------64.95
+HDMI cable-----04.95
+switch and 
+  2.1mm barrel jack---------02.50
+
+
+Misc./extra                each item added to the base price
+				    -----------
+Super cool Button-----------04.95     183.14						Other fancy stuff (Wish List)
+Mini Volt Meter-------------07.95     186.14
+Cheap touch screen									Better Charger +  thermisistor (Fast charge)------16.50    this would subtract  the  Other charger from price
+   with breakout board------12.00     190.19						
+5"x7"x3" box----------------19.95     199.14
+
+_______________________________
+    with all misc stuff----223.04
+
+
+
+
+
+_________________________________________________________________
+Raspberry PI---39.99		|About 1000 mA			|
+Key Board------20.00		|	<-			|
+WIFI-----------10.00		|   	<-			|
+Batteries------19.90		|3.7 x 2 V.  at 2400 mAh	|
+Voltage Reg ---09.95		|switches 7.4V 1A to 5.2V. 790 A|
+	Charger--------11.90	|Charges one battery at 500mA 5V|   there is a $13.10 difference between the better charger and the USB one  (the better charger is bigger)
+Screen---------64.95		|About 1000 mA			|
+HDMI cable-----04.95		|N/A				|
+switch and 			|				|
+2.1mm barrel jack---------02.50	|N/A				|
+-----------------------------------------------------------------
+               184.14  base price
+
+			+ volt meter = 		192.09
+			or
+			+ better charger  = 	197.24
+
+			or both
+--------------------------------------------------
+			= 205.19		+ cool button = 210.14

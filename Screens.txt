@@ -1,0 +1,30 @@
+The PiTFT mini touch screen    320x240   2.8" ----- $34.95
+After Market Backup camera     640x480   3.5" ----- $19.99
+HDMI large and high quality    800x480   5.0" ----- $64.95
+
+
+_________________________________________________________________________________________________________________
+these are in order of size and resolution.									|
+														|
+The mini touch screen is the best for size and power consumption. Being a touch screen is always good.		|
+														|
+The HDMI is the best for quality and visibility of screen.							|
+														|
+The after market screen is the best for price and well roundedness.						|
+														|
+But how small the screen looks doesn't matter for portability because you cant make the keyboard smaller.	|
+Unless we want to go down the rout of finding foldable keyboards and what not.					|
+														|
+The HDMI is Plug N. Play where as the after market requires some wiring.					|
+														|
+The down side of the HDMI is the bulky driver board that goes with it.And the heavy power consumption.		|
+_________________________________________________________________________________________________________________
+
+
+
+
+
+Final Opinions
+--------------
+If we can run the HDMI with the power we have then DO IT.
+If not then go with the After Market display.

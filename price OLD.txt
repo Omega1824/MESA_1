@@ -1,0 +1,54 @@
+
+Screen   -34.95
+Battery  -14.95
+charger  -5.95
+RPI      -39.95
+WiFi     -11.95
+SD       -7.95
+Keyboard -49.95
+---------------
+          165.65
+
+
+
+
+Battery x2 	19.90
+Charger  	 5.95
+RPI	 	35.00
+keyboard 	16.00
+wifi		 9.00
+SD		 7.00
+Screen		19.99
+---------------------
+               112.84
+
+
+screen		17.38
+keyboard	19.99
+ssd		69.95
+Battery x2 	19.90
+Charger  	 5.95
+RPI	 	35.00
+wifi		 9.00
+SD		 7.00
+---------------------
+		184.13
+
+
+
+screen		17.38
+keyboard	20.00
+battery x2	19.90
+charger		 5.95
+SSD		69.95
+USB/SSD board    7.00
+
+RPI		35.00
+SD		8.00
+WiFi		9.00
+---------------------
+		191.28
+
+same build (no SSD)
+-------------------
+		145.33
